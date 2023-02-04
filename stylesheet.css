@@ -1,0 +1,27 @@
+body{
+    height : 30%;
+    margin: 0;
+    background-color: #0d3740;
+    
+}
+
+.bg{
+    height : 30vh;
+    background-image: url("BELogo.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.Navigation{
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background-color:#0d3740;
+    border-radius: 15px;
+}
+
+    
+    
+    
